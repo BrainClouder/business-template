@@ -1,0 +1,228 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it renders corretly 1`] = `
+Array [
+  <div
+    className="sc-AxjAm iIRRhm"
+  >
+    <div
+      className="sc-AxirZ dXJXzm"
+    >
+      <a
+        aria-current={null}
+        href="/login"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "hsl(221, 51%, 94%)",
+            "fontSize": "18px",
+            "fontWeight": 300,
+            "textDecoration": "none",
+            "textTransform": "capitalize",
+          }
+        }
+      >
+        login
+      </a>
+    </div>
+    <div
+      className="sc-AxirZ dXJXzm"
+    >
+      <a
+        aria-current={null}
+        href="/about us"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "hsl(221, 51%, 94%)",
+            "fontSize": "18px",
+            "fontWeight": 300,
+            "textDecoration": "none",
+            "textTransform": "capitalize",
+          }
+        }
+      >
+        about us
+      </a>
+    </div>
+    <div
+      className="sc-AxirZ dXJXzm"
+    >
+      <a
+        aria-current={null}
+        href="/pricing"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "hsl(221, 51%, 94%)",
+            "fontSize": "18px",
+            "fontWeight": 300,
+            "textDecoration": "none",
+            "textTransform": "capitalize",
+          }
+        }
+      >
+        pricing
+      </a>
+    </div>
+    <div
+      className="sc-AxirZ dXJXzm"
+    >
+      <a
+        aria-current={null}
+        href="/contact"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "hsl(221, 51%, 94%)",
+            "fontSize": "18px",
+            "fontWeight": 300,
+            "textDecoration": "none",
+            "textTransform": "capitalize",
+          }
+        }
+      >
+        contact
+      </a>
+    </div>
+    <div
+      className="sc-AxirZ dXJXzm"
+    >
+      <a
+        aria-current={null}
+        href="/workplace"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "hsl(221, 51%, 94%)",
+            "fontSize": "18px",
+            "fontWeight": 300,
+            "textDecoration": "none",
+            "textTransform": "capitalize",
+          }
+        }
+      >
+        workplace
+      </a>
+    </div>
+  </div>,
+  <div
+    style={
+      Object {
+        "backgroundColor": "hsl(221, 51%, 14%)",
+      }
+    }
+  >
+    <div
+      className="sc-AxiKw Ahors"
+    >
+      <p
+        className="sc-AxheI isiLWF"
+      >
+        The voyage of your dreams starts now!
+      </p>
+      <p
+        className="sc-AxheI isiLWF"
+        style={
+          Object {
+            "marginLeft": "2em",
+            "textAlign": "left",
+          }
+        }
+      >
+        Ok then
+      </p>
+    </div>
+    <div
+      className="sc-AxhCb BWqfa"
+    >
+      <div
+        className="sc-AxgMl eKHRsh"
+        style={
+          Object {
+            "borderTop": "4px solid hsl(0, 91%, 54%)",
+          }
+        }
+      >
+        <div>
+          First you select one of the available 
+          <span
+            className="sc-Axmtr dFWOMB"
+          >
+            planets
+          </span>
+        </div>
+      </div>
+      <div
+        className="sc-AxgMl eKHRsh"
+        style={
+          Object {
+            "borderTop": "4px solid hsl(125, 91%, 54%)",
+          }
+        }
+      >
+        <div>
+          Then, you choose one of the 
+          <span
+            className="sc-Axmtr dFWOMB"
+          >
+            spaceship
+          </span>
+           and 
+          <span
+            className="sc-Axmtr dFWOMB"
+          >
+            technology
+          </span>
+           plan
+        </div>
+      </div>
+      <div
+        className="sc-AxgMl eKHRsh"
+        style={
+          Object {
+            "borderTop": "4px solid hsl(250, 91%, 54%)",
+          }
+        }
+      >
+        <div>
+          Checkout time! You can pay using 
+          <span
+            className="sc-Axmtr dFWOMB"
+          >
+            credit card
+          </span>
+          , 
+          <span
+            className="sc-Axmtr dFWOMB"
+          >
+            online transfer
+          </span>
+           and 
+          <span
+            className="sc-Axmtr dFWOMB"
+          >
+            cryptocurrency
+          </span>
+          !
+        </div>
+      </div>
+      <div
+        className="sc-AxgMl eKHRsh"
+        style={
+          Object {
+            "borderTop": "4px solid hsl(375, 91%, 54%)",
+          }
+        }
+      >
+        <div>
+          Enjoy your outworldly vacation!
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-AxhUy dNxuhj"
+    />
+  </div>,
+]
+`;
