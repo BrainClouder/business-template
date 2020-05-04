@@ -15,11 +15,11 @@ const FirstContainer = styled.div`
 const SecondContainer = styled.div`
     width: 100vw;
     display: flex;
-    padding: 1em 2em;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
-    margin-horizontal: 4px;
+    align-items: center;
     background-color:  hsl(221, 51%,95%);
+
 `;
 
 const ThirdContainer = styled.div`
@@ -29,17 +29,12 @@ const ThirdContainer = styled.div`
 const ExplainBox = styled.div`
     box-shadow: 2px 2px 2px #112;
     background-color: white;
-    // border: 2px solid hsl(221, 51%, 44%);
     font-weight: 300;
     font-size: 16px;
-    margin: 1em;
-    align-items: center;
-    display: flex;
-    flex-direction: center;
-    
+    margin: 1em 0;
     text-align: center;
     padding: 1em 1.5em;
-    width: 150px;    
+    width: 80vw;    
 `;
 
 const LightText = styled.p`

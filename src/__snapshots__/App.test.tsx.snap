@@ -1,6 +1,81 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`it renders corretly 1`] = `
+exports[`Home page renders correctly 1`] = `null`;
+
+exports[`Login page renders correctly 1`] = `
+<div>
+  <div
+    className="sc-fzpans loQKfm"
+  />
+  <div
+    className="sc-fzplWN hnTcLr"
+  >
+    <p
+      className="sc-fzqBZW ehHZWI"
+      style={
+        Object {
+          "color": "hsl(221, 51%, 75%)",
+          "fontSize": "32px",
+          "letterSpacing": "2px",
+        }
+      }
+    >
+      Welcome back
+    </p>
+    <div
+      className="sc-fznyAO hXymER"
+    >
+      <div
+        className="sc-fzoyAV fERsLW"
+      >
+        <p
+          className="sc-fzqBZW ehHZWI"
+        >
+          Username or e-mail
+        </p>
+        <input
+          className="sc-fznKkj jhmTRc"
+          type="text"
+        />
+      </div>
+      <div
+        className="sc-fzoyAV fERsLW"
+      >
+        <p
+          className="sc-fzqBZW ehHZWI"
+        >
+          Your password
+        </p>
+        <input
+          className="sc-fznKkj jhmTRc"
+          type="password"
+        />
+        <p
+          className="sc-fzoXzr clclza"
+        >
+          Forgot your password?
+        </p>
+      </div>
+      <div
+        className="sc-fzqNJr eSClwp"
+      >
+        <button
+          className="sc-fznZeY gUAlQb"
+        >
+          enter
+        </button>
+        <button
+          className="sc-fzokOt Bwapy"
+        >
+          register
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`main app renders corretly (home page) 1`] = `
 Array [
   <div
     className="sc-AxjAm iIRRhm"
